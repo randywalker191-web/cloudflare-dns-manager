@@ -1,6 +1,6 @@
 [Português](README.md) | [English](README.en.md) | [Français](README.fr.md) | [Español](README.es.md) | [简体中文](README.zh.md) | [日本語](README.ja.md) | [Deutsch](README.de.md) | [العربية](README.ar.md) | [हिन्दी](README.hi.md) | [한국어](README.ko.md)
 
-# Cloudflare DNS Manager
+# Cloudflare DNS ManagerR1 Randy walker©
 
 Aplicativo em Flutter para gerenciamento de registros DNS via Cloudflare API.
 
